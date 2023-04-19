@@ -1,4 +1,4 @@
-# Açık kaynak kodlu yazılımlar
+# Açık kaynak kodlu yazılımlar1
 docker file kullanılarak oluşturulmuş python ve flask kullanılan projedir
 Bu uygulama, /api/sum konumunda POST isteklerini kabul eden ve iki sayının toplamını JSON biçiminde döndüren tek bir yol tanımlar.
 
